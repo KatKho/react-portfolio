@@ -77,38 +77,41 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "company": "U.S. Coast Guard Reserve",
+        "title": "Yeoman",
+        "years": "Aug 2022 - Aug 2023",
+        "mainTech": [],
+        "technologies":["Digital record management systems",
+        "Workflow enhancement tools",
+        "Personnel file management"]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "U.S. Coast Guard",
+        "title": "Yeoman",
+        "years": "Aug 2018 - Aug 2022",
+        "mainTech": [],
+        "technologies": ["Managed data efficiency",
+        "Enhanced communication workflows",
+        "Ensured accurate records",
+        "Optimized data security"]
+      },
+      {
+        "company": "Walgreens",
+        "title": "Pharmacy Technician",
+        "years": "Feb 2018 - Jul 2018",
+        "mainTech": [],
+        "technologies": ["Provided personalized service",
+        "Ensured prescription accuracy",
+        "Managed pharmacy inventory"]
+      },
+      {
+        "company": "Fashion-Concert",
+        "title": "Photographer",
+        "years": "Jan 2014 - May 2016",
+        "mainTech": [],
+        "technologies":  ["Utilized Photoshop and Lightroom",
+        "Engaged in article writing",
+        "Managed social media"]
       }
     ]
   }
