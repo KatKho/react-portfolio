@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: medium;
+	color: white;
 }
 
 .title-styles {
@@ -38,20 +40,25 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url('../public/images/background1.jpg');
+	background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 100px;
 	padding-bottom: 0;
 }
 
 header .nav {
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font-size: medium;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	align-items: center;
 }
+
 
 .github-corner:hover .octo-arm {
 	animation:octocat-wave 560ms ease-in-out
@@ -95,18 +102,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: white;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #A4A69C;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #A4A69C;
 	height: 25px;
 }
 
@@ -421,6 +428,8 @@ footer {
 	font-size: 14px;
 	color: white;
 	position: relative;
+	display: flex;
+	align-items: center;
 	text-align: center;
 }
 
@@ -435,6 +444,10 @@ footer a:focus {
 }
 
 .social-links {
-	margin-top: 10px;
+	padding: 10px;
 	font-size: 22px;
+}
+
+#portfolio, #resume {
+	background-color: #A4A69C;
 }

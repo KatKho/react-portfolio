@@ -8,18 +8,15 @@ import About from "./components/About";
 import Home from "./components/Home";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
-      foo: "bar",
       resumeData: {},
       sharedData: {},
     };
   }
 
-  applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
-    this.swapCurrentlyActiveLanguage(oppositeLangIconId);
+  applyPickedLanguage = (pickedLanguage) => {
     document.documentElement.lang = pickedLanguage;
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
@@ -28,25 +25,9 @@ class App extends Component {
     this.loadResumeFromPath(resumePath);
   }
 
-  swapCurrentlyActiveLanguage = (oppositeLangIconId) => {
-    var pickedLangIconId =
-      oppositeLangIconId === window.$primaryLanguageIconId
-        ? window.$secondaryLanguageIconId
-        : window.$primaryLanguageIconId;
-    document
-      .getElementById(oppositeLangIconId)
-      .removeAttribute("filter", "brightness(40%)");
-    document
-      .getElementById(pickedLangIconId)
-      .setAttribute("filter", "brightness(40%)");
-  }
-
   componentDidMount = () => {
     this.loadSharedData();
-    this.applyPickedLanguage(
-      window.$primaryLanguage,
-      window.$secondaryLanguageIconId
-    );
+    this.applyPickedLanguage(window.$primaryLanguage);
   }
 
   loadResumeFromPath = (path) => {
