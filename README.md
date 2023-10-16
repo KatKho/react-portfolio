@@ -28,5 +28,5 @@ Feel free to reach out and connect with me:
 ## 🙏 Contributors
 
 * Ekaterina Khoroshilova
-* ChatGPT help with documentation
+* Assisted by ChatGPT in documentation refinement
   
