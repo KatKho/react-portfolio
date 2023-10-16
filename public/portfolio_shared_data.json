@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Ekaterina Khoroshilova",
-      "titles": [ "Software Developer | Code Fellows Student" ],
+      "titles": [ "Full-stack Software Developer " ],
       "social": [
         {
           "name": "github",
@@ -44,20 +44,51 @@
           "level": "85"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Express.js",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
           "level": "75"
         },
         {
-          "name": "MySql",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "75"
+        },
+        {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "80"
+        },
+        {
+          "name": "SQL",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "65"
+        },
+        {
+          "name": "ES6",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "65"
         }
       ]
     }
+    
   }

@@ -10,49 +10,69 @@
       }
     },
     "projects": [
-      {
-        "title": "Final Project",
-        "startDate": "2023",
-        "description": "This is a placeholder for my final project",
-        "images": [
-          "images/portfolio/final-project/p1.jpg",
-          "images/portfolio/final-project/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
+        {
+          "title": "Lorecraft",
+          "startDate": "September 2023",
+          "description": "LoreCraft is an innovative app that leverages the power of GPT-3 and AI imaging to provide users with a seamless experience in creating unique characters and their backstories instantly. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.",
+          "images": [
+              "images/portfolio/lorecraft/p1.png",
+              "images/portfolio/lorecraft/p2.png"
+          ],
+          "url": "https://github.com/Lore-Craft",
+          "technologies": [
+              {
+                  "class": "devicon-react-original",
+                  "name": "React"
+              },
+              {
+                  "class": "devicon-javascript-plain",
+                  "name": "JavaScript"
+              },
+              {
+                  "class": "devicon-bootstrap-plain",
+                  "name": "Bootstrap"
+              },
+              {
+                  "class": "devicon-mongodb-plain",
+                  "name": "MongoDB"
+              },
+              {
+                  "class": "devicon-express-original",
+                  "name": "Express.js"
+              }
+          ]
       },
-      {
-        "title": "Horned Beasts",
-        "startDate": "2023",
-        "description": "In this project, I boosted user engagement by introducing a feature that increases favorites and reveals horned creatures in a modal view upon clicking. Moreover, I incorporated a filtering function based on the number of horns, enhancing interactivity and user customization.",
-        "images": [
-          "images/portfolio/horned-beast/p1.jpg",
-          "images/portfolio/horned-beast/p2.jpg"
-        ],
-        "url": "https://github.com/KatKho/horned-beast",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
+        {
+          "title": "City Explorer",
+          "startDate": "August 2023",
+          "description": "City Explorer is a dynamic web app that provides a detailed map of the selected city, alongside an accurate weather forecast. It enhances the user's exploration experience by showcasing a carousel of movies that feature the city in their title. Whether you're planning a trip or simply curious about a city's cinematic footprint, City Explorer has got you covered.",
+          "images": [
+              "images/portfolio/city-explorer/p1.png",
+              "images/portfolio/city-explorer/p2.png"
+          ],
+          "url": "https://github.com/KatKho/city-explorer",
+          "technologies": [
+              {
+                  "class": "devicon-react-original",
+                  "name": "React"
+              },
+              {
+                  "class": "devicon-javascript-plain",
+                  "name": "JavaScript"
+              },
+              {
+                  "class": "devicon-bootstrap-plain",
+                  "name": "Bootstrap"
+              },
+              {
+                  "class": "devicon-express-original",
+                  "name": "Express.js"
+              }
+          ]
       },
       {
         "title": "Workout Tracker",
-        "startDate": "2023",
+        "startDate": "July 2023",
         "description": "My first project involved collaborative teamwork under a tight deadline. The workout tracker, a testament to our efforts, diligently records individuals' weekly and daily workouts alongside prescribed reps and sets for each exercise. Additionally, a comprehensive exercise compendium offers guidance on proper execution, reflecting our commitment to a holistic fitness experience.",
         "images": [
           "images/portfolio/workout-tracker/p1.jpg",
@@ -77,23 +97,13 @@
     ],
     "experience": [
       {
-        "company": "U.S. Coast Guard Reserve",
-        "title": "Yeoman",
-        "years": "Aug 2022 - Aug 2023",
-        "mainTech": [],
-        "technologies":["Digital record management systems",
-        "Workflow enhancement tools",
-        "Personnel file management"]
-      },
-      {
         "company": "U.S. Coast Guard",
         "title": "Yeoman",
-        "years": "Aug 2018 - Aug 2022",
+        "years": "Aug 2018 - Aug 2023",
         "mainTech": [],
         "technologies": ["Managed data efficiency",
         "Enhanced communication workflows",
-        "Ensured accurate records",
-        "Optimized data security"]
+        "Optimized security protocols"]
       },
       {
         "company": "Walgreens",
