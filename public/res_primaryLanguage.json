@@ -1,8 +1,8 @@
 {
-    "basic_info": {
-      "description_header": "Hello there!👋 ",
-      "description": "I'm Ekaterina Khoroshilova, and I'm excited to share a bit about myself. Originally from Moscow, Russia, I've been calling the United States home for the past 6 years.\n\nMy journey has been a diverse one, taking me through various roles and experiences. From exploring photography and working in pharmacy tech to immersing myself in marine biology and serving in the Coast Guard as a yeoman, I've embraced each opportunity with enthusiasm.\n\nThe ever-evolving world of web development has captured my interest, and I'm committed to staying at the forefront of this dynamic field. With a deep love for gaming and a fascination with the rapid advancements in AI, I'm driven to make a meaningful impact in both realms.\n\nCurrently, I'm pursuing a software development course at Code Fellows, where I'm blending academic knowledge with hands-on experience. I'm on the lookout for exciting projects that allow me to channel my creativity and drive positive change.\n\nLet's connect and explore how we can collaborate to shape a brighter future! 🚀",      
-      "section_name": {
+  "basic_info": {
+    "description_header": "Hello World!👋",
+    "description": "I’m Ekaterina Khoroshilova, delving into the tech world with a diverse background. From the meticulous world of pharmacy tech and the artistic realms of photography to serving as a yeoman in the U.S. Coast Guard and exploring marine biology, my journey has been rich and varied. With a BS in Informatics, I've cultivated a deep appreciation for diverse perspectives and problem-solving approaches. My passion lies at the intersection of technology and creativity, particularly in gaming and AI. Currently pursuing a Google UX Design Certificate, I am dedicated to building applications that are not only technically proficient but also deeply engaging and user-centric. Let’s connect and collaborate to transform innovative ideas into impactful digital realities!",
+        "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
