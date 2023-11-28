@@ -10,6 +10,78 @@
       }
     },
     "projects": [
+      {
+        "title": "Lorecraft",
+        "startDate": "September 2023",
+        "description": "LoreCraft is an innovative app that leverages the power of GPT-3 and AI imaging to provide users with a seamless experience in creating unique characters and their backstories instantly. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.",
+        "images": [
+            "images/portfolio/lorecraft/p1.png",
+            "images/portfolio/lorecraft/p2.png"
+        ],
+        "url": "https://github.com/Lore-Craft",
+        "technologies": [
+            {
+                "class": "devicon-react-original",
+                "name": "React"
+            },
+            {
+                "class": "devicon-javascript-plain",
+                "name": "JavaScript"
+            },
+            {
+                "class": "devicon-bootstrap-plain",
+                "name": "Bootstrap"
+            },
+            {
+                "class": "devicon-mongodb-plain",
+                "name": "MongoDB"
+            },
+            {
+                "class": "devicon-express-original",
+                "name": "Express.js"
+            }
+        ]
+    },
+    {
+      "title": "Just Talk Chat",
+      "startDate": "October 2023",
+      "description": "Just Talk Chat is a dynamic chat room application connecting users globally for real-time conversations. Its standout feature is the built-in translation, allowing seamless communication across different languages. Powered by advanced AI, the platform includes a proactive filter to identify and mitigate toxic messages, ensuring a positive and safe communication environment. This innovative application is designed to bridge communication gaps and foster understanding among diverse user groups.",
+      "images": [
+        "images/portfolio/chat/admin1.png",
+        "images/portfolio/chat/admin2.png"
+    ],
+      "url": "https://github.com/JustTalkChat/just-talk-chat",
+      "technologies": [
+          {
+              "class": "devicon-amazonwebservices-plain-wordmark",
+              "name": "AWS Lambda"
+          },
+          {
+              "class": "devicon-amazonwebservices-plain-wordmark",
+              "name": "API Gateway"
+          },
+          {
+              "class": "devicon-amazonwebservices-plain-wordmark",
+              "name": "AWS DynamoDB"
+          },
+          {
+              "class": "devicon-amazonwebservices-plain-wordmark",
+              "name": "Amazon Comprehend"
+          },
+          {
+              "class": "devicon-amazonwebservices-plain-wordmark",
+              "name": "Amazon Translate"
+          },
+          {
+              "class": "devicon-html5-plain",
+              "name": "HTML"
+          },
+          {
+              "class": "devicon-javascript-plain",
+              "name": "JavaScript"
+          }
+        ]
+      },
         {
           "title": "Lorecraft",
           "startDate": "September 2023",
