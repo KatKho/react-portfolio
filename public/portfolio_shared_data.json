@@ -92,6 +92,51 @@
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "70"
+        },
+        {
+          "name": "Socket.IO",
+          "class": "devicon-socketio-original",
+          "level": "75"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "65"
+        },
+        {
+          "name": "CI/CD",
+          "class": "devicon-travis-plain",
+          "level": "70"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain",
+          "level": "65"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "SQLite",
+          "class": "devicon-sqlite-plain",
+          "level": "80"
+        },
+        {
+          "name": "Trello",
+          "class": "devicon-trello-plain",
+          "level": "80"
         }
       ]
     }
