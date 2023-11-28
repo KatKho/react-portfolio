@@ -11,26 +11,18 @@
     },
     "projects": [
       {
-        "title": "Lorecraft",
-        "startDate": "September 2023",
-        "description": "LoreCraft is an innovative app that leverages the power of GPT-3 and AI imaging to provide users with a seamless experience in creating unique characters and their backstories instantly. Crafted with React.js, it integrates various components to streamline the process of character creation, letting users delve deeper into the realm of creativity.",
+        "title": "Lost Hub",
+        "startDate": "November 2023",
+        "description": "Lost Hub is a contemporary digital platform designed to modernize the traditional lost and found system. It provides a user-friendly and centralized solution for reporting and finding lost items, streamlining the process for more efficient retrieval of belongings. The platform's integration with the Google Maps API enables precise location tracking, while Auth0 ensures secure authentication, and Axios facilitates robust data handling.",
         "images": [
-            "images/portfolio/lorecraft/p1.png",
-            "images/portfolio/lorecraft/p2.png"
+            "images/portfolio/losthub/lostHub.png",
+            "images/portfolio/losthub/lostItems.png"
         ],
-        "url": "https://github.com/Lore-Craft",
+        "url": "https://github.com/lost-hub-app",
         "technologies": [
             {
                 "class": "devicon-react-original",
                 "name": "React"
-            },
-            {
-                "class": "devicon-javascript-plain",
-                "name": "JavaScript"
-            },
-            {
-                "class": "devicon-bootstrap-plain",
-                "name": "Bootstrap"
             },
             {
                 "class": "devicon-mongodb-plain",
@@ -39,9 +31,17 @@
             {
                 "class": "devicon-express-original",
                 "name": "Express.js"
+            },
+            {
+                "class": "devicon-nodejs-plain",
+                "name": "Node.js"
+            },
+            {
+                "class": "devicon-google-plain",
+                "name": "Google Maps API"
             }
         ]
-    },
+    },    
     {
       "title": "Just Talk Chat",
       "startDate": "October 2023",
@@ -147,8 +147,8 @@
         "startDate": "July 2023",
         "description": "My first project involved collaborative teamwork under a tight deadline. The workout tracker, a testament to our efforts, diligently records individuals' weekly and daily workouts alongside prescribed reps and sets for each exercise. Additionally, a comprehensive exercise compendium offers guidance on proper execution, reflecting our commitment to a holistic fitness experience.",
         "images": [
-          "images/portfolio/workout-tracker/p1.jpg",
-          "images/portfolio/workout-tracker/p2.jpg"
+          "images/portfolio/workout-tracker/p1.png",
+          "images/portfolio/workout-tracker/p2.png"
         ],
         "url": "https://github.com/201-workout/201-workout",
         "technologies": [
