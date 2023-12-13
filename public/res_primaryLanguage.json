@@ -117,10 +117,10 @@
         {
           "title": "City Explorer",
           "startDate": "August 2023",
-          "description": "City Explorer is a dynamic web app that provides a detailed map of the selected city, alongside an accurate weather forecast. It enhances the user's exploration experience by showcasing a carousel of movies that feature the city in their title. Whether you're planning a trip or simply curious about a city's cinematic footprint, City Explorer has got you covered.",
+          "description": "City Explorer is a dynamic web app that provides a detailed map of the selected city, alongside an accurate weather forecast and popular events. It enhances the user's exploration experience by showcasing a carousel of movies that feature the city in their title. Whether you're planning a trip or simply curious about a city's cinematic footprint, City Explorer has got you covered.",
           "images": [
-              "images/portfolio/city-explorer/p1.png",
-              "images/portfolio/city-explorer/p2.png"
+              "images/portfolio/city-explorer/p1-1.png",
+              "images/portfolio/city-explorer/p2-1.png"
           ],
           "url": "https://github.com/KatKho/city-explorer",
           "technologies": [
